@@ -1,0 +1,111 @@
+{
+		"Categories":
+		[
+			{	
+				"name":"Landscape"
+			},
+			{
+				"name":"Object"
+			},
+			{
+				"name":"Abstract"
+			},
+			{
+				"name":"Other"
+			}
+
+		],
+
+		"Wallpapers":
+		[
+
+				{
+					"author":"Maria",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/Christmas_Trees-Maria.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/Christmas_Trees-Maria.jpg",
+					"name": "Christmas Trees",
+					"category":"Landscape"
+				},
+
+				{
+					"author":"Zack Posthumus",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/dark_deer_Zack%20Posthumus.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/dark_deer_Zack%20Posthumus.jpg",
+					"name":"Dark Deer",
+					"category":"Object,Other"
+				},
+
+				{
+					"author":"Lioe Mazza",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/moonRising_Lior%20Mazza.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/moonRising_Lior%20Mazza.jpg",
+					"name":"moonRising",
+					"category":"Object,Landscape"
+				},
+
+				{
+					"author":"Stavros Kypraios",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/mount_Stavros%20Kypraios.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/mount_Stavros%20Kypraios.jpg",
+					"name":"Mount",
+					"category":"Object, Landscape"
+				},
+
+				{
+					"author":"Zohaib Usman",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/mountains-on-mars_Zohaib%20Usman.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/mountains-on-mars_Zohaib%20Usman.jpg",
+					"name":"Mountains on Mars",
+					"category":"Object,Landscape"
+				},
+
+				{
+					"author":"Robbie Bisconti",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/Subtle_Ocean_Robbie%20Bisconti.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/Subtle_Ocean_Robbie%20Bisconti.jpg",
+					"name":"Subtle Ocean",
+					"category":"Landscape"
+				},
+
+				{
+					"author":"MariLou",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/summer_sunset_mariLou.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/summer_sunset_mariLou.jpg",
+					"name":"Summer Sunset",
+					"category":"Object,Landscape"
+				},
+
+				{
+					"author":"Micah Matthias",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/summer-treat_Micah%20Matthias.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/summer-treat_Micah%20Matthias.jpg",
+					"name":"Summer Treat",
+					"category":"Object"
+				},
+
+				{
+					"author":"Lioe Mazza",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/sunRising_Lioe%20Mazza.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/sunRising_Lioe%20Mazza.jpg",
+					"name":"sunRising",
+					"category":"Object,Landscape"
+				},
+
+				{
+					"author":"Baxzel",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/Sunset-Baxzel.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/Sunset-Baxzel.jpg",
+					"name":"Sunset",
+					"category":"Object,Landscape"
+				},
+
+				{
+					"author":"Nane",
+					"url":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/winter_Nane.jpg",
+					"thumbUrl":"https://raw.githubusercontent.com/kucingapes/wallpaper/master/img/winter_Nane.jpg",
+					"name":"Winter",
+					"category":"Object,Abstract"
+				}
+
+		]
+}
